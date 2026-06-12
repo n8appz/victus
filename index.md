@@ -56,4 +56,4 @@ If this policy changes, the updated version will be posted at this page with a n
 
 ## Contact
 
-Questions or requests: **[YOUR SUPPORT EMAIL HERE]**
+Questions or requests: **[n8apps@n8-fit.com]**
