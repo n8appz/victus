@@ -1,5 +1,8 @@
 # Victus — Privacy Policy
 
+## Support
+Questions or issues with Victus? Email **n8apps@n8-fit.com** — replies usually within a day.
+
 **Effective date: June 12, 2026**
 
 Victus ("the app") is developed and operated by Nathan Smith ("we," "us"). This policy explains what information the app handles, where it goes, and the choices you have. The short version: **Victus has no user accounts, shows no ads, and does not sell or share your personal data. Your food log lives on your device.**
